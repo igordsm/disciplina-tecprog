@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html class="has-navbar-fixed-top">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Técnicas de Programação - 2025.2</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="css/styles.css">
+
+    <script>
+      document.addEventListener('DOMContentLoaded', (ev) => {
+        document.querySelectorAll("aside.menu ul").forEach( (el) => {
+          el.classList.add("menu-list");
+        });
+      });
+    </script>
+  </head>
+  <body>
+  <nav class="navbar is-fixed-top">
+    <div class="navbar-brand">
+      <h1 class="title navbar-item">
+        Técnicas de Programação - 2025.2
+      </h1>
+    </div>
+  </nav>
+  <section class="section is-desktop">
+      <div class="columns">
+        <aside class="menu">
+          <p class="menu-label">Conteúdo</p>
+          <ul>
+          <li><a href="#avisos" id="toc-avisos">Avisos</a></li>
+          <li><a href="#equipe" id="toc-equipe">Equipe</a></li>
+          <li><a href="#avaliações"
+          id="toc-avaliações">Avaliações</a></li>
+          <li><a href="#como-usar-o-material"
+          id="toc-como-usar-o-material">Como usar o material</a></li>
+          <li><a href="#aulas" id="toc-aulas">Aulas</a></li>
+          <li><a href="#materiais-antigos"
+          id="toc-materiais-antigos">Materiais antigos</a></li>
+          </ul>
+        </aside>
+        <div class="content">      
+          <h1 id="avisos">Avisos</h1>
+          <p><strong>11/08</strong>:</p>
+          <ol type="1">
+          <li>Nesta disciplina, é proibida a utilização de ferramentas e
+          plugins de IA generativa (IAg) em todas as atividades, pois a
+          avaliação dos objetivos de aprendizagem é baseada no
+          raciocínio lógico do próprio aluno.</li>
+          <li>Na semana do dia <em>02/11</em> estarei viajando.
+          Reposições de aula e atividades extras com os ninjas serão
+          comunicadas mais perto da data.</li>
+          </ol>
+          <p><strong>Links importantes</strong>:
+          <!-- TODO: arrumar esses links!!!! --></p>
+          <ul>
+          <li><a
+          href="https://insper.blackboard.com/ultra/courses/_49978_1/announcements">Avisos
+          (blackboard)</a></li>
+          <li><a
+          href="https://us.prairielearn.com/pl/course_instance/170365">Exercícios
+          (prairie learn)</a></li>
+          <li><a href="./plano-de-aulas.xlsx">Plano de aulas</a></li>
+          <li><a
+          href="https://portaldoprofessor.insper.edu.br/wp-content/uploads/2024/12/CALENDARIO-GRADUACAO-_-PROVAS-GERAIS-_-USO-INTERNO.pdf">Calendário
+          acadêmico</a></li>
+          </ul>
+          <h1 id="equipe">Equipe</h1>
+          <div class="equipe">
+          <ul>
+          <li><img src="css/igor.png" alt="Igor" /> <strong>Igor
+          Montagner</strong></li>
+          <li><strong>Pedro Vaz Pertusi</strong> (2025/1)</li>
+          <li><img src="css/luca.jpg" alt="Luca" /> <strong>Luca
+          Feltrin</strong> (2025/1)</li>
+          <li><img src="css/maciel.jpg" alt="Maciel" /> <strong>Maciel
+          Vidal</strong> (2023/2)</li>
+          <li><img src="css/vaz.jpg" alt="Vaz" /> <strong>Eduardo
+          Vaz</strong> (2024/1)</li>
+          <li><strong>Alexandre Magno</strong> (2024/1)</li>
+          <li><img src="css/jlucas.jpg" alt="Jlucas" /> <strong>João
+          Lucas Cadorniga</strong> (2024/2)</li>
+          </ul>
+          </div>
+          <!-- TODO: foto + nome de todos os ninjas.  -->
+          <h1 id="avaliações">Avaliações</h1>
+          <p>Teremos os seguinte itens de avaliação</p>
+          <ul>
+          <li><span class="math inline"><em>P</em><em>L</em></span> -
+          média de todos os exercícios no PrairieLearn</li>
+          <li><span class="math inline"><em>Q</em><em>G</em></span> -
+          média dos quizzes</li>
+          <li><span class="math inline"><em>P</em>1</span> - prova
+          intermediária</li>
+          <li><span class="math inline"><em>P</em>2</span> - prova
+          final</li>
+          </ul>
+          <p>A nota final <span
+          class="math inline"><em>N</em><em>F</em></span> é calculada da
+          seguinte maneira.</p>
+          <p><span
+          class="math display"><em>N</em><em>F</em> = 0.3 × <em>P</em><em>L</em> + <em>P</em>1 × 0.2 + <em>P</em>2 × 0.4 + <em>Q</em><em>G</em> × 0.1</span></p>
+          <p>Com a condição de que <span
+          class="math inline">(2 × <em>P</em>1 + 4 × <em>P</em>2)/6 ≥ 4.5</span>.</p>
+          <h1 id="como-usar-o-material">Como usar o material</h1>
+          <p>Nossas aulas estão divididas em 3 materiais principais:</p>
+          <ol type="1">
+          <li><strong>slides</strong> usados nas partes expositivas das
+          aulas.</li>
+          <li><strong>handouts</strong> contendo atividades feitas em
+          aula e explicações adicionais. Estão em formato PDF. É
+          possível usar tanto impresso quanto anotando o PDF
+          digitalmente.</li>
+          <li><strong>exercícios conceituais</strong> no PrairieLearn
+          específicos para cada aula.</li>
+          </ol>
+          <p>Veja os vídeos abaixo para entender um pouco melhor a
+          mudança para material impresso e também algumas dicas de como
+          aproveitar melhor esse tipo de material. Temos tanto para uso
+          em papel como digital via anotações no PDF.</p>
+          <p><a class="button" href="https://youtu.be/8eoDvbbxYhE">Uso
+          do material em Papel</a>
+          <!-- <a class="button" href="#">Uso do material em PDF</a> --></p>
+          <p>Além disso, também teremos exercícios de implementação
+          gerais de cada assunto. Eles são listados no início de cada
+          assunto.</p>
+          <ol type="1">
+          <li><strong>implementação</strong> dos algoritmos no
+          PrairieLearn. Objetivo é traduzir os algoritmos vistos em sala
+          para <em>Java</em>.</li>
+          <li><strong>exercícios extras</strong> em sites como LeetCode,
+          hackerrank e etc. Úteis para praticar para prova e ter mais
+          exemplos dos algoritmos e estruturas de dados sendo
+          usados.</li>
+          </ol>
+          <h1 id="aulas">Aulas</h1>
+          <p>Atividades de aula estão organizadas em grandes tópicos que
+          serão abordados em mais de uma aula. As atividades esperadas
+          de cada dia estão listadas dentro de cada tópico.</p>
+          <!-- exemplo de tabela
+          | Aula           | Materiais                                                                           |
+          | --             | ---                                                                                 |
+          | Introdução     | [Slides](02-abb-intro/slides-intro.pdf) / [Handout](02-abb-intro/handout-intro.pdf) |
+          | Inserção       | [Handout](03-abb-insere/handout.pdf)                                                |
+          | Balanceamento  | [Slides](04-abb-balance/slides.pdf) / [Handout](04-abb-balance/handout.pdf)         |
+          | Remoção        | [Slides](05-abb-remove/slides.pdf) / [Handout](05-abb-remove/handout.pdf) / [Vídeo Remoção](https://youtu.be/YzSuUj54Mo0)           |
+          -->
+          <h3 id="exercícios-extras">Exercícios extras</h3>
+          <p>Os seguintes exercícios do leetcode são interessantes e
+          relacionados ao assunto atual.</p>
+          <ol type="1">
+          <li>aldjasdjk</li>
+          </ol>
+          <h1 id="materiais-antigos">Materiais antigos</h1>
+          <p>O repositório com os materiais antigos está disponível <a
+          href="https://github.com/insper/tecnicas-de-programacao">neste
+          link</a>.</p>
+        </div>
+      </div>
+  </section>
+
+<section class="footer">
+  <div class="container is-max-tablet">
+
+    <p class="block">Última atualização: 21/07/2025 14:02</p>
+
+    <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+
+  </div>
+  </section>
+  </body>
+</html>
