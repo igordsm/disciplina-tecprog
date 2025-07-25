@@ -22,11 +22,13 @@ subtitle: 2025.2
 
 ::: equipe :::
 - ![Igor](css/igor.png) **Igor Montagner**
-- **Pedro Vaz Pertusi** (2025/1)
+- ![Cynthia](css/cynthia.jpeg) **Cynthia Naoko Yasutake** (2025/2)
+- ![Artur](css/artur.jpeg) **Artur Alvares Cruz Lopes** (2025/2)
+- ![Pertusi](css/pertusi.png) **Pedro Vaz Pertusi** (2025/1)
 - ![Luca](css/luca.jpg) **Luca Feltrin** (2025/1)
 - ![Maciel](css/maciel.jpg) **Maciel Vidal** (2023/2) 
 - ![Vaz](css/vaz.jpg) **Eduardo Vaz** (2024/1)
-- **Alexandre Magno** (2024/1)
+- ![Ale](css/ale.jpeg)**Alexandre Magno** (2024/1)
 - ![Jlucas](css/jlucas.jpg) **João Lucas Cadorniga** (2024/2)
 :::
 
