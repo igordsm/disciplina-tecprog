@@ -32,8 +32,6 @@ subtitle: 2025.2
 - ![Jlucas](css/jlucas.jpg) **João Lucas Cadorniga** (2024/2)
 :::
 
-<!-- TODO: foto + nome de todos os ninjas.  -->
-
 # Avaliações
 
 Teremos os seguinte itens de avaliação
@@ -72,6 +70,8 @@ Além disso, também teremos exercícios de implementação gerais de cada assun
 # Aulas
 
 Atividades de aula estão organizadas em grandes tópicos que serão abordados em mais de uma aula. As atividades esperadas de cada dia estão listadas dentro de cada tópico.
+
+## 00 - Pseudo código e Java
 
 
 <!-- exemplo de tabela
