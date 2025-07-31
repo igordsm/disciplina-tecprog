@@ -71,17 +71,28 @@ Além disso, também teremos exercícios de implementação gerais de cada assun
 
 Atividades de aula estão organizadas em grandes tópicos que serão abordados em mais de uma aula. As atividades esperadas de cada dia estão listadas dentro de cada tópico.
 
+
+## Apresentação da disciplina
+
+<emded class="slides" src="inicio.pdf"></embed>
+
 ## 00 - Pseudo código e Java
 
 
-<!-- exemplo de tabela
-| Aula           | Materiais                                                                           |
-| --             | ---                                                                                 |
-| Introdução     | [Slides](02-abb-intro/slides-intro.pdf) / [Handout](02-abb-intro/handout-intro.pdf) |
-| Inserção       | [Handout](03-abb-insere/handout.pdf)                                                |
-| Balanceamento  | [Slides](04-abb-balance/slides.pdf) / [Handout](04-abb-balance/handout.pdf)         |
-| Remoção        | [Slides](05-abb-remove/slides.pdf) / [Handout](05-abb-remove/handout.pdf) / [Vídeo Remoção](https://youtu.be/YzSuUj54Mo0)           |
--->
+| Aula              | Slides                            | Handout                         | PrairieLearn |
+| --                | ---                               | ---                             | ---          |
+| Controle de Fluxo | [Expositiva][pseudo-slides1]      | [Handout][pseudo-handout1]      | ...          | 
+| Arrays            | .                                 | .                               | .            |
+| Strings           | .                                 | .                               | .            |
+
+**Cheat Sheets Java**:
+
+- [Parte 1][pseudo-cheatsheet1]: Variáveis e Controle de fluxo
+
+
+[pseudo-slides1]: 00-java/aula1.pdf
+[pseudo-cheatsheet1]: 00-java/cheat1-handout.pdf
+[pseudo-handout1]: 00-java/cheat1-handout.pdf
 
 
 ### Exercícios extras
