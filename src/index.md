@@ -11,12 +11,10 @@ subtitle: 2025.2
 2. Na semana do dia *02/11* estarei viajando. Reposições de aula e atividades extras com os ninjas serão comunicadas mais perto da data. 
 
 **Links importantes**:
-<!-- TODO: arrumar esses links!!!! -->
 
-- [Avisos (blackboard)](https://insper.blackboard.com/ultra/courses/_49978_1/announcements)
-- [Exercícios (prairie learn)](https://us.prairielearn.com/pl/course_instance/170365)
+- [Avisos (blackboard)](https://insper.blackboard.com/ultra/courses/_49698_1/announcements)
+- [Exercícios (prairie learn)](https://us.prairielearn.com/pl/course_instance/188747)
 - [Plano de aulas](./plano-de-aulas.xlsx)
-- [Calendário acadêmico](https://portaldoprofessor.insper.edu.br/wp-content/uploads/2024/12/CALENDARIO-GRADUACAO-_-PROVAS-GERAIS-_-USO-INTERNO.pdf)
 
 # Equipe
 
@@ -55,7 +53,7 @@ Nossas aulas estão divididas em 3 materiais principais:
 
 1. **slides** usados nas partes expositivas das aulas. 
 2. **handouts** contendo atividades feitas em aula e explicações adicionais. Estão em formato PDF. É possível usar tanto impresso quanto anotando o PDF digitalmente.
-3. **exercícios conceituais** no PrairieLearn específicos para cada aula.  
+3. **exercícios práticos** no PrairieLearn específicos para cada aula.  
 
 Veja os vídeos abaixo para entender um pouco melhor a mudança para material impresso e também algumas dicas de como aproveitar melhor esse tipo de material. Temos tanto para uso em papel como digital via anotações no PDF. 
 
@@ -74,25 +72,38 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 
 ## Apresentação da disciplina
 
-<emded class="slides" src="inicio.pdf"></embed>
+<object data="slides-inicio.pdf" width="400" height="400"></object>
+
 
 ## 00 - Pseudo código e Java
 
+[Acessar exercícios](https://us.prairielearn.com/pl/course_instance/188747/assessment/2569817){ .button }
 
-| Aula              | Slides                            | Handout                         | PrairieLearn |
-| --                | ---                               | ---                             | ---          |
-| Controle de Fluxo | [Expositiva][pseudo-slides1]      | [Handout][pseudo-handout1]      | ...          | 
-| Arrays            | .                                 | .                               | .            |
-| Strings           | .                                 | .                               | .            |
 
 **Cheat Sheets Java**:
 
 - [Parte 1][pseudo-cheatsheet1]: Variáveis e Controle de fluxo
 
 
-[pseudo-slides1]: 00-java/aula1.pdf
+
+| Aula              | Slides                            | Handout                         |
+| --                | ---                               | ---                             |
+| Controle de Fluxo | [Expositiva][pseudo-slides1]      | [Handout][pseudo-handout1]      |
+| Arrays            | .                                 | .                               |
+| Strings           | .                                 | .                               |
+
+
+[pseudo-slides1]: 00-java/slides-dia1.pdf
+[pseudo-slides2]: 00-java/slides-dia2.pdf
+[pseudo-slides3]: 00-java/slides-dia3.pdf
 [pseudo-cheatsheet1]: 00-java/cheat1-handout.pdf
-[pseudo-handout1]: 00-java/cheat1-handout.pdf
+[pseudo-handout1]: 00-java/handout-dia1.pdf
+[pseudo-handout2]: 00-java/handout-dia2.pdf
+[pseudo-handout3]: 00-java/handout-dia3.pdf
+
+
+
+
 
 
 ### Exercícios extras
