@@ -42,13 +42,14 @@ Nosso objetivo aqui é **aprender**. *genAI* não ajuda (necessariamente) a apre
 - ou com menos esforço
 - ou até a não fazer algumas tarefas
 
-## Se não gerou aprendizado, não ajudou!
 
 ----------------------
 
 <!-- _class: quote -->
 
-> Nesta disciplina, é proibida a utilização de ferramentas e plugins de IA generativa (IAg) em todas as atividades avaliativas, pois a avaliação dos objetivos de aprendizagem é baseada no raciocínio lógico do próprio aluno.
+> Suporte ou Colaboração sem **autonomia** é dependência
+
+Igor Montagner
 
 ----------------------
 
@@ -160,11 +161,3 @@ Nosso objetivo aqui é **aprender**. *genAI* não ajuda (necessariamente) a apre
 4. Empregar estruturas de dados lineares (listas, matrizes, pilhas, filas, mapeamentos, conjuntos) para resolver problemas computacionais de maneira eficiente
 5. Identificar como estratégias computacionais clássicas (busca, ordenação, otimização) podem ser adaptadas para resolver novos problemas computacionais
 6. Estimar a complexidade computacional de um algoritmo usando uma argumentação informal baseada na contagem de vezes que uma linha executa
-
-----
-
-<!-- _class: front -->
-
-# Atividades: Módulo 00-Java
-
-## Vamos fazer juntos!

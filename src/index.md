@@ -106,11 +106,11 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 
 
 
-### Exercícios extras
+<!-- ### Exercícios extras -->
 
-Os seguintes exercícios do leetcode são interessantes e relacionados ao assunto atual.
+<!-- Os seguintes exercícios do leetcode são interessantes e relacionados ao assunto atual. -->
 
-1. aldjasdjk
+<!-- 1. aldjasdjk -->
 
 
 # Materiais antigos
