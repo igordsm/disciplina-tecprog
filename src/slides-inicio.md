@@ -141,7 +141,7 @@ Igor Montagner
     - exercícios de sala (pseudo código)
     - APS para entregar (código Java)
 
-- 2 provas (PI e PF) e 2 Quizzes (em duplas)
+- 2 provas (PI e PF) e 2 Quizzes
 
 ------------------
 
