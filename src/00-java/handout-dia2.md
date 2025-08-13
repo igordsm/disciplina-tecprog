@@ -131,78 +131,30 @@ $total \gets 0$\;
 
 [break]
 
--------------------------------
-
-## Palavras iguais
-
-\begin{algorithm}[H]
-\DontPrintSemicolon
-\SetAlgoLined
-\KwResult{Verifica se a jaca lançada acertou.}
-\SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
-\Input{float $V$, float $\theta$}
-\Output{string}
-\BlankLine
-
-$G \gets 9.8$\;
-$\theta \gets \theta * \pi / 180$\;
-$dist \gets \frac{V^2 * \sin(2\theta)}{G}$\;
-
-\If{$dist < 98$}{\Return{"Muito perto"}}
-\If{$dist > 102$}{\Return{"Muito longe"}}
-
-\Return{"Acertou"}
-\caption{JacaWars}
-\end{algorithm} 
-
-**Entrada 1**: $V=40, \theta=15^o$
-
-[spacer]
-
-**Entrada 2**: $V=40, \theta=40^o$
-
-[spacer]
-
-**Entrada 3**: $V=31.5, \theta=45^o$
-
-[break]
-
 
 ## Conta Celulares
 
 \begin{algorithm}[H]
 \DontPrintSemicolon
 \SetAlgoLined
-\KwResult{Conta quantos algarismos "1" existem em um número.}
+\KwResult{Conta quantos celulares existem em uma lista de strings}
 \SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
-\Input{int $N$}
+\Input{array string $L$}
 \Output{int}
 \BlankLine
-CELULARES(T)
-    COUNT_CELULARES := 0
-
-    PARA CADA ITEM EM T FAÇA
-        DIGITO1 := VAZIO
-        SE TAMANHO(ITEM) = 14 ENTÃO
-            DIGITO1 := ITEM[5]
-            SE DIGITO1 = "9" ENTÃO
-                COUNT_CELULARES := COUNT_CELULARES + 1
-            FIM
-        FIM
-        SE TAMANHO(ITEM) = 11 ENTÃO
-            DIGITO1 := ITEM[2]
-            SE DIGITO1 = "9" ENTÃO
-                COUNT_CELULARES := COUNT_CELULARES + 1
-            FIM
-        FIM
-
-        SE TAMANHO(ITEM) = 9 ENTÃO
-            DIGITO1 := ITEM[0]
-            SE DIGITO1 = "9" ENTÃO
-                COUNT_CELULARES := COUNT_CELULARES + 1
-            FIM
-        FIM
-    FIM
+$count \gets 0$;
+\For{$i \gets 0 \textbf{ to } L.length}{
+    \If{$L[i].length = 14 \textbf{ AND } L[i][5] = '9'$} {
+        $count \gets count + 1$\;
+    }
+    \If{$L[i].length = 11 \textbf{ AND } L[i][2] = '9'$} {
+        $count \gets count + 1$\;
+    }
+    \If{$L[i].length = 9 \textbf{ AND } L[i][0] = '9'$} {
+        $count \gets count + 1$\;
+    }
+}
+\Return{$count$}\;
 \caption{ContaCelulares}
 \end{algorithm} 
 
@@ -218,69 +170,41 @@ CELULARES(T)
 
 [break]
 
-## Estimando valor de $\pi$
+## Palavras iguais
+
+Agora vamos tentar escrever um pseudo código nosso. Não se esqueça que nossas strings são acessadas igual a um array. Preencha abaixo e verifique se seu algoritmo funciona usando as entradas abaixo.
 
 \begin{algorithm}[H]
 \DontPrintSemicolon
 \SetAlgoLined
-\KwResult{Calcula o valor de $\pi$ usando uma série.}
+\KwResult{Verifica se uma string é formada por duas palavras iguais separadas por um caractere '-'}
 \SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
-\Input{int $N$}
-\Output{float}
+\Input{string $S$}
+\Output{boolean}
 \BlankLine
-$pi^2 = 0$\;
-\For{$i \gets 1 \textbf{ to } N+1$}{
-	$pi^2 \gets pi^2 + \frac{6}{i^2}$\;
-}
-\Return{$\sqrt{pi^2}$}
-\caption{CalculaPi}
+\BlankLine
+\BlankLine
+\BlankLine
+\BlankLine
+\BlankLine
+\BlankLine
+\BlankLine
+\BlankLine
+\BlankLine
+\BlankLine
+\BlankLine
+\BlankLine
+\caption{PalavrasIguais}
 \end{algorithm} 
 
-**Entrada 1**: $N=3$
+**Entrada 1**: $V=40, \theta=15^o$
 
 [spacer]
 
-**Entrada 2**: $N=4$
+**Entrada 2**: $V=40, \theta=40^o$
 
 [spacer]
 
-**Entrada 3**: $N=10$
+**Entrada 3**: $V=31.5, \theta=45^o$
 
 [break]
-
-
-## Fatorial
-
-\begin{algorithm}[H]
-\DontPrintSemicolon
-\SetAlgoLined
-\KwResult{Calcula o fatorial de um número}
-\SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
-\Input{int $N$}
-\Output{int}
-\BlankLine
-
-$res \gets 1$\;
-\For{$i \gets 1 \textbf{ to } N+1$}{
-	$res \gets res * i$\;
-}
-\Return{$res$}
-\caption{Fatorial}
-\end{algorithm} 
-
-**Entrada 1**: $N=4$
-
-[spacer]
-
-**Entrada 2**: $N=5$
-
-[spacer]
-
-**Entrada 3**: $N=8$
-
-[break]
-
-
-
-
-
