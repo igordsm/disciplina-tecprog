@@ -58,24 +58,20 @@ Créditos: [javaporco](https://flickr.com/photos/luizmrocha/4777371771), [lama](
 
 # Exemplo da dinâmica esperada
 
---------------
-
-# Arrays
-
-- coleção de dados com **tamanho fixo**
-
 -------
 
 # Arrays - pseudo código
 
-- $array int L$
+Coleção de dados com **tamanho fixo** e acesso via índice iniciando em $0$.
+
+- array int $L$
 - $L.length$ - tamanho
 - $L[i]$ - acesso ao elemento $i$
 - novo array int$[10]$ - criação
 
 -----
 
-# Strings
+# Strings - pseudo código
 
 Arrays do tipo `char`, que representa um único caractere. Tem as seguintes diferenças em relação ao array normal.
 

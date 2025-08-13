@@ -89,7 +89,7 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 | Aula              | Slides                            | Handout                         |
 | --                | ---                               | ---                             |
 | Controle de Fluxo | [Expositiva][pseudo-slides1]      | [Handout][pseudo-handout1]      |
-| Arrays            | .                                 | .                               |
+| Arrays            | [Expositiva][pseudo-slides2]      | [Handout][pseudo-handout2]      |
 | Strings           | .                                 | .                               |
 
 

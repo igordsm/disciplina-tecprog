@@ -38,18 +38,12 @@ $\textbf{float } dist\_mprox \gets = \sqrt{(x_0 - o_x)^2 + (y_0 - o_y)^2}$\;
 \caption{Entregador mais próximo}
 \end{algorithm} 
 
-**Entrada 1**: $b=3, h=5$
+**Entrada 1**: $o=(0, 0), x=[123, 42 ,10], y=[432, 312, 20]$
 
 [spacer]
 
-**Entrada 2**: $b=9.5, h=4$
+**Entrada 2**: $o=(3, 4), x=[10, 4, 4, 23], y=[20, 2, 4, 63]$
 
-[spacer]
-
-**Entrada 3**: $b=3, h=5.8$
-
-
-[break]
 
 ## Diferença de listas
 
@@ -93,11 +87,11 @@ $count \gets 0$\;
 \caption{DiffListas}
 \end{algorithm} 
 
-**Entrada 1**: $V=\sqrt{9.8}, \theta=\pi/6, Y_0=1$
+**Entrada 1**: $A_2 = [1, 2, 3, 4], A_1=[4, 5, 6]$
 
 [spacer]
 
-**Entrada 2**: $V=20, \theta=\pi/4, Y_0=1$
+**Entrada 2**: $A_1 = [1, 2, 3, 4], A_2=[4, 5, 6]$
 
 
 ## Valor da nota
@@ -119,15 +113,15 @@ $total \gets 0$\;
 \caption{ValorNota}
 \end{algorithm} 
 
-**Entrada 1**: $N=7$
+**Entrada 1**: $P=[1.40,1.45,11.4], Q=[1.40,1.45,11.4]$
 
 [spacer]
 
-**Entrada 2**: $N=22$
+**Entrada 2**: $P=[1.5], Q=[3]$
 
 [spacer]
 
-**Entrada 3**: $N=150$
+**Entrada 3**: $P=[1.21, 1.1, 4.5, 6.1, 100.15, 0.4, 8.67], Q=[13, 41, 63, 6, 52, 14, 47]$
 
 [break]
 
@@ -137,13 +131,13 @@ $total \gets 0$\;
 \begin{algorithm}[H]
 \DontPrintSemicolon
 \SetAlgoLined
-\KwResult{Conta quantos celulares existem em uma lista de strings}
+\KwResult{Dada uma lista com números de telefone, devolve uma nova lista contendo somente os números que são de celular.}
 \SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
 \Input{array string $L$}
-\Output{int}
+\Output{array string}
 \BlankLine
 $count \gets 0$;
-\For{$i \gets 0 \textbf{ to } L.length}{
+\For{$i \gets 0 \textbf{ to } L.length$}{
     \If{$L[i].length = 14 \textbf{ AND } L[i][5] = '9'$} {
         $count \gets count + 1$\;
     }
@@ -154,19 +148,27 @@ $count \gets 0$;
         $count \gets count + 1$\;
     }
 }
-\Return{$count$}\;
-\caption{ContaCelulares}
+$res \gets \text{novo array string}[count]$\;
+$k \gets 0$\;
+\For{$i \gets 0 \textbf{ to } L.length$}{
+    \If{$L[i].length = 14 \textbf{ AND } L[i][5] = '9'$} {
+        $res[k] \gets L[i]$\;
+        $k \gets k + 1$\;
+    }
+    \If{$L[i].length = 11 \textbf{ AND } L[i][2] = '9'$} {
+        $res[k] \gets L[i]$\;
+        $k \gets k + 1$\;
+    }
+    \If{$L[i].length = 9 \textbf{ AND } L[i][0] = '9'$} {
+        $res[k] \gets L[i]$\;
+        $k \gets k + 1$\;
+    }
+}
+\Return{$res$}\;
+\caption{FiltraCelulares}
 \end{algorithm} 
 
-**Entrada 1**: $N=5$
-
-[spacer]
-
-**Entrada 2**: $N=11$
-
-[spacer]
-
-**Entrada 3**: $N=6531$
+**Entrada 1**: $L=[$"+5511912345678", "1155556666", "77778888", "+551133334444", "918273645", "11987654321"$]$
 
 [break]
 
@@ -181,30 +183,16 @@ Agora vamos tentar escrever um pseudo código nosso. Não se esqueça que nossas
 \SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
 \Input{string $S$}
 \Output{boolean}
-\BlankLine
-\BlankLine
-\BlankLine
-\BlankLine
-\BlankLine
-\BlankLine
-\BlankLine
-\BlankLine
-\BlankLine
-\BlankLine
-\BlankLine
-\BlankLine
-\BlankLine
+\vspace{20em}
 \caption{PalavrasIguais}
 \end{algorithm} 
 
-**Entrada 1**: $V=40, \theta=15^o$
+**Entrada 1**: $S=$``abc-abc''
 
 [spacer]
 
-**Entrada 2**: $V=40, \theta=40^o$
+**Entrada 2**: $S=$``abc-abca''
 
 [spacer]
 
-**Entrada 3**: $V=31.5, \theta=45^o$
-
-[break]
+**Entrada 3**: $S=$``zig-zag''
