@@ -1,5 +1,5 @@
 ---
-title: Condicionais e Loops
+title: Strings e Arrays
 subtitle: Técnicas de Programação
 author: Igor Montagner
 ...

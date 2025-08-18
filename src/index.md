@@ -86,31 +86,19 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 
 
 
-| Aula              | Slides                            | Handout                         |
-| --                | ---                               | ---                             |
-| Controle de Fluxo | [Expositiva][pseudo-slides1]      | [Handout][pseudo-handout1]      |
-| Arrays            | [Expositiva][pseudo-slides2]      | [Handout][pseudo-handout2]      |
-| Strings           | .                                 | .                               |
-
+| Aula              | Slides                       | Handout                    |
+|-------------------|------------------------------|----------------------------|
+| Controle de Fluxo | [Expositiva][pseudo-slides1] | [Handout][pseudo-handout1] |
+| Arrays            | [Expositiva][pseudo-slides2] | [Handout][pseudo-handout2] |
+| Strings           | .                            | [Handout][pseudo-handout3] |
 
 [pseudo-slides1]: 00-java/slides-dia1.pdf
 [pseudo-slides2]: 00-java/slides-dia2.pdf
-[pseudo-slides3]: 00-java/slides-dia3.pdf
 [pseudo-cheatsheet1]: 00-java/cheat1-handout.pdf
 [pseudo-handout1]: 00-java/handout-dia1.pdf
 [pseudo-handout2]: 00-java/handout-dia2.pdf
 [pseudo-handout3]: 00-java/handout-dia3.pdf
 
-
-
-
-
-
-<!-- ### Exercícios extras -->
-
-<!-- Os seguintes exercícios do leetcode são interessantes e relacionados ao assunto atual. -->
-
-<!-- 1. aldjasdjk -->
 
 
 # Materiais antigos
