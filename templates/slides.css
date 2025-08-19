@@ -9,6 +9,12 @@
 	--color-fg-default: #6D6B6B;
 }
 
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+
+
 section h1 {
 	position: absolute;
 	top: 1.5rem;
