@@ -1,7 +1,8 @@
 ---
-marp: true
 footer: 'Igor Montagner (igorsm1@insper.edu.br)'
 ---
+
+<!-- _class=front -->
 
 # Técnicas de Programação
 

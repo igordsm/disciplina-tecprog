@@ -103,14 +103,21 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 
 [Acessar exercícios](https://us.prairielearn.com/pl/course_instance/188747/assessment/2574645){ .button }
 
-| Aula          | Slides                          | Handout                       |
-|---------------|---------------------------------|-------------------------------|
-| Busca Binária | [Expositiva][binsearch-slides1] | [Handout][binsearch-handout1] |
+| Aula                  | Slides                          | Handout                       |
+|-----------------------|---------------------------------|-------------------------------|
+| Busca Binária         | [Expositiva][binsearch-slides1] | [Handout][binsearch-handout1] |
+| Análise de Desempenho | [Expositiva][binsearch-slides2] | [Handout][binsearch-handout2] |
+|                       |                                 |                               |
 
 [binsearch-slides1]: 01-busca-binaria/slides-inicio.pdf
 [binsearch-handout1]: 01-busca-binaria/handout-dia1.pdf
+[binsearch-slides2]: 01-busca-binaria/slides-desempenho.pdf
+[binsearch-handout2]: 01-busca-binaria/handout-dia2.pdf
 
+<!--
+## 02 - Ordenação
 
+-->
 
 
 # Materiais antigos
