@@ -116,17 +116,17 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 
 ## 02 - Ordenação
 
-| Aula                   | Slides                     | Handout                 | Exercício                      |
-|------------------------|----------------------------|-------------------------|--------------------------------|
-| Algoritmos Quadráticos | [Expositiva][sort-slides1] | [Baixar][sort-handout1] | [Acessar exercícios][sort-ex1] |
-|                        |                            |                         |                                |
+| Aula           | Slides                     | Handout                 | Exercício                      |
+|----------------|----------------------------|-------------------------|--------------------------------|
+| Bubble Sort    | [Expositiva][sort-slides1] | [Baixar][sort-handout1] | [Acessar exercícios][sort-ex1] |
+| Selection Sort |                            | [Baixar][sort-handout1] | (igual acima)                  |
+
 
 <!--| Recursão (parte 1)     | [Expositiva][sort-slides2] | [Baixar][sort-handout2] |
 |                        |                            |                         |
 -->
 
 [sort-slides1]: 02-ordenacao/slides-dia1.pdf
-[sort-slides2]: 02-ordenacao/slides-dia2.pdf
 [sort-slides3]: 02-ordenacao/slides-dia3.pdf
 [sort-slides4]: 02-ordenacao/slides-dia4.pdf
 
