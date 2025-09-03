@@ -120,7 +120,8 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 |----------------|----------------------------|-------------------------|--------------------------------|
 | Bubble Sort    | [Expositiva][sort-slides1] | [Baixar][sort-handout1] | [Acessar exercícios][sort-ex1] |
 | Selection Sort |                            | [Baixar][sort-handout1] | (igual acima)                  |
-
+| Quick Sort (I) | [Expositiva][sort-slides3] | [Baixar][sort-handout3] | [Acessar exercícios][sort-ex3] |
+|                |                            |                         |                                |
 
 <!--| Recursão (parte 1)     | [Expositiva][sort-slides2] | [Baixar][sort-handout2] |
 |                        |                            |                         |
@@ -136,6 +137,7 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [sort-handout4]: 02-ordenacao/handout-dia4.pdf
 
 [sort-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2578637
+[sort-ex3]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2581948
 
 <!--
 ## 02 - Ordenação
