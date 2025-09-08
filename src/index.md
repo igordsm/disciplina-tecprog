@@ -5,6 +5,8 @@ subtitle: 2025.2
 
 # Avisos
 
+**10/09** Na próxima aula teremos quiz em duplas sobre simulação de algoritmos e escrita de pseudo código. [Veja sua dupla aqui](grupos-quiz1.csv)
+
 **11/08**:
 
 1. Nesta disciplina, é proibida a utilização de ferramentas e plugins de IA generativa (IAg) em todas as atividades, pois a avaliação dos objetivos de aprendizagem é baseada no raciocínio lógico do próprio aluno.
@@ -142,12 +144,6 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 ## 02 - Ordenação
 
 -->
-
-
-
-# Avaliações
-
-- **10/09** quiz em duplas sobre simulação de algoritmos e escrita de pseudo código. [Veja sua dupla aqui](grupos-quiz1.csv)
 
 
 # Materiais antigos
