@@ -122,7 +122,6 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 | Selection Sort |                            | [Baixar][sort-handout1] | (igual acima)                  |
 | Quick Sort (I) | [Expositiva][sort-slides3] | [Baixar][sort-handout3] | [Acessar exercícios][sort-ex3] |
 |                |                            |                         |                                |
-
 <!--| Recursão (parte 1)     | [Expositiva][sort-slides2] | [Baixar][sort-handout2] |
 |                        |                            |                         |
 -->
@@ -143,6 +142,12 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 ## 02 - Ordenação
 
 -->
+
+
+
+# Avaliações
+
+- **10/09** quiz em duplas sobre simulação de algoritmos e escrita de pseudo código. [Veja sua dupla aqui](grupos-quiz1.csv)
 
 
 # Materiais antigos
