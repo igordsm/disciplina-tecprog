@@ -1,5 +1,5 @@
 ---
-title: Algoritimos Rápidos de Ordenação 
+title: Algoritmos Rápidos de Ordenação 
 subtitle: Técnicas de Programação
 author: Igor Montagner
 ...
