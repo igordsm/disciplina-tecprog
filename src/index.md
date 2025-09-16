@@ -123,6 +123,8 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 | Bubble Sort    | [Expositiva][sort-slides1] | [Baixar][sort-handout1] | [Acessar exercícios][sort-ex1] |
 | Selection Sort |                            | [Baixar][sort-handout1] | (igual acima)                  |
 | Quick Sort (I) | [Expositiva][sort-slides3] | [Baixar][sort-handout3] | [Acessar exercícios][sort-ex3] |
+| Recursão       | [Expositiva][sort-slides4] | [Baixar][sort-handout4] |                                |
+| Merge Sort     | [Expositiva][sort-slides5] | [Baixar][sort-handout5] | [Acessar exercícios][sort-ex5] |
 |                |                            |                         |                                |
 <!--| Recursão (parte 1)     | [Expositiva][sort-slides2] | [Baixar][sort-handout2] |
 |                        |                            |                         |
@@ -131,19 +133,17 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [sort-slides1]: 02-ordenacao/slides-dia1.pdf
 [sort-slides3]: 02-ordenacao/slides-dia3.pdf
 [sort-slides4]: 02-ordenacao/slides-dia4.pdf
+[sort-slides4]: 02-ordenacao/slides-dia5.pdf
 
 [sort-handout1]: 02-ordenacao/handout-dia1.pdf
 [sort-handout2]: 02-ordenacao/handout-dia2.pdf
 [sort-handout3]: 02-ordenacao/handout-dia3.pdf
 [sort-handout4]: 02-ordenacao/handout-dia4.pdf
+[sort-handout4]: 02-ordenacao/slides-dia5.pdf
 
 [sort-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2578637
 [sort-ex3]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2581948
-
-<!--
-## 02 - Ordenação
-
--->
+[sort-ex5]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2587712
 
 
 # Materiais antigos
