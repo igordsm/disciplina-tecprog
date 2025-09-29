@@ -15,7 +15,7 @@ footer: 'Igor Montagner (igorsm1@insper.edu.br)'
 ```
 QUICKSORT(A, INI, FIM)
 
-IF INI <= FIM - 1 THEN
+IF INI >= FIM - 1 THEN
     RETURN
 END
 
@@ -31,7 +31,7 @@ QUICKSORT(A, LP+1, FIM)
 ```
 MERGE-SORT(A, AUX, INI, FIM)
 
-IF INI <= FIM - 1 THEN
+IF INI >= FIM - 1 THEN
     RETURN
 END
 
