@@ -36,10 +36,10 @@ IF INI >= FIM - 1 THEN
 END
 
 MEIO <- (INI + FIM - 1) / 2
-MERGE-SORT(A, INI, MEIO)
-MERGE-SORT(A, MEIO, FIM)
+MERGE-SORT(A, AUX, INI, MEIO+1)
+MERGE-SORT(A, AUX, MEIO+1, FIM)
 
-MERGE(A, AUX, INI, FIM, MEIO)
+MERGE(A, AUX, INI, FIM, MEIO+1)
 ```
 
 --------------------------------------

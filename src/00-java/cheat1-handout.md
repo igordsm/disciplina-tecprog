@@ -147,7 +147,7 @@ $\textbf{float } total \gets 0$\;
 ```java
 public static double Exemplo2(double[] A) {
   double total = 0;
-  for (int i = 0; i < A.length; i++) {
+  for (long i = 0; i < A.length; i++) {
     total += A[i];
   }
   return total / A.length;
@@ -173,7 +173,7 @@ $\textbf{string } S = ....$\;
 
 ```java
 String S = ....;
-for (long i = 0; i < S.length(); i++) {
+for (int i = 0; i < S.length(); i++) {
   // faz algo com
   S.charAt(i);
 }
