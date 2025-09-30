@@ -133,7 +133,7 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [sort-slides3]: 02-ordenacao/slides-dia3.pdf
 [sort-slides4]: 02-ordenacao/slides-dia4.pdf
 [sort-slides5]: 02-ordenacao/slides-dia5.pdf
-[sort-slides6]: 02-ordenacao/slides-dia6.html
+[sort-slides6]: 02-ordenacao/slides-dia6.pdf
 
 [sort-handout1]: 02-ordenacao/handout-dia1.pdf
 [sort-handout2]: 02-ordenacao/handout-dia2.pdf
