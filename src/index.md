@@ -125,7 +125,6 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 | Quick Sort (I)         | [Expositiva][sort-slides3] | [Baixar][sort-handout3] | [Acessar exercícios][sort-ex3] |
 | Recursão               | [Expositiva][sort-slides4] | [Baixar][sort-handout4] |                                |
 | Merge Sort (I)         | [Expositiva][sort-slides5] | [Baixar][sort-handout5] | [Acessar exercícios][sort-ex5] |
-|                        |                            |                         |                                |
 | Ordenação rápida       | [Expositiva][sort-slides6] |                         |  [Acessar exercícios][sort-ex6]|
 
 
@@ -146,6 +145,14 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [sort-ex5]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2587712
 [sort-ex6]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2592563
 
+## 03 - Backtracking e enumeração exaustiva
+
+| Aula                   | Slides                     | Handout                 | Exercício                      |
+|----------------        |----------------------------|-------------------------|--------------------------------|
+| Sequências de DNA      | [Expositiva][back-slides1] |                         | [Acessar exercícios][back-ex1] |
+
+[back-slides1]: 03-backtracking/slides-dia1.pdf
+[back-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2593850
 
 # Materiais antigos
 
