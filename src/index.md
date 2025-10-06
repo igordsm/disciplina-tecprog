@@ -150,9 +150,12 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 | Aula                   | Slides                     | Handout                 | Exercício                      |
 |----------------        |----------------------------|-------------------------|--------------------------------|
 | Sequências de DNA      | [Expositiva][back-slides1] |                         | [Acessar exercícios][back-ex1] |
+| Mochila Binária        | [Expositiva][back-slides2] |                         | [Acessar exercícios][back-ex2] |
 
 [back-slides1]: 03-backtracking/slides-dia1.pdf
+[back-slides2]: 03-backtracking/slides-dia2.pdf
 [back-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2593850
+[back-ex2]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2596061
 
 # Materiais antigos
 
