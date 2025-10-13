@@ -152,6 +152,7 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 | Sequências de DNA         | [Expositiva][back-slides1] |                               | [Acessar exercícios][back-ex1] |
 | Mochila Binária           | [Expositiva][back-slides2] |   [Handout][back-handout2]    | [Acessar exercícios][back-ex2] |
 | Mochila Binária II        | [Expositiva][back-slides3] | [Handout][back-handout3]      | [Acessar exercícios][back-ex3] |
+| Mochila Binária III       |                            |                               | [Exercício extra][back-extra1] |
 
 [back-slides1]: 03-backtracking/slides-dia1.pdf
 [back-slides2]: 03-backtracking/slides-inicio.pdf
@@ -161,6 +162,7 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [back-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2593850
 [back-ex2]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2596061
 [back-ex3]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2596820
+[back-extra1]: https://leetcode.com/problems/number-of-islands/
 
 # Materiais antigos
 
