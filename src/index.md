@@ -162,7 +162,7 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [back-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2593850
 [back-ex2]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2596061
 [back-ex3]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2596820
-[back-extra1]: https://leetcode.com/problems/number-of-islands/
+[back-extra1]: https://leetcode.com/problems/n-queens-ii/
 
 # Materiais antigos
 
