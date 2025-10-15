@@ -164,6 +164,16 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [back-ex3]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2596820
 [back-extra1]: https://leetcode.com/problems/n-queens-ii/
 
+## 04 - Caminhos
+
+| Aula                      | Slides                     | Handout                       | Exercício                      |
+|----------------           |----------------------------|-------------------------      |--------------------------------|
+| Heurística da mão direita | [Expositiva][lab-slides1]  | [Handout][lab-handout1]       | [Acessar exercícios][lab-ex1] |
+
+[lab-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2600615
+[lab-hand1]: 04-caminhos/handout-dia1.pdf
+[lab-slides1]: 04-caminhos/slides-dia1.pdf
+
 # Materiais antigos
 
 O repositório com os materiais antigos está disponível [neste link](https://github.com/insper/tecnicas-de-programacao). 
