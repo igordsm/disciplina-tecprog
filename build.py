@@ -41,7 +41,7 @@ for f in all_files:
             print('Handout', f)
         sh(f'{PANDOC_HANDOUT} {PANDOC_VARS} --resource-path {dir} {f} -o {resname}')
     elif fname.endswith('.md') and 'slide' in fname:
-        resname = without_src.parent / fname.replace('.md', '.pdf')
+        resname = without_src.parent / fname.replace('.md', '.html')
         if show_file_list:
             print(resname)
         else:

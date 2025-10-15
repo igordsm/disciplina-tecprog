@@ -172,7 +172,7 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 
 [lab-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2600615
 [lab-hand1]: 04-caminhos/handout-dia1.pdf
-[lab-slides1]: 04-caminhos/slides-dia1.pdf
+[lab-slides1]: 04-caminhos/slides-dia1.html
 
 # Materiais antigos
 
