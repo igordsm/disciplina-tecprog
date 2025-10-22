@@ -168,7 +168,7 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 
 | Aula                      | Slides                     | Handout                       | Exercício                      |
 |----------------           |----------------------------|-------------------------      |--------------------------------|
-| Heurística da mão direita | [Expositiva][lab-slides1]  | [Handout][lab-handout1][Mão direita](04-caminhos/mao-direita_1.png)       | [Acessar exercícios][lab-ex1] |
+| Heurística da mão direita | [Expositiva][lab-slides1]  | [Handout][lab-handout1] / [Mão direita](04-caminhos/mao-direita_1.png)       | [Acessar exercícios][lab-ex1] |
 
 [lab-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2600615
 [lab-handout1]: 04-caminhos/handout-dia1.pdf
