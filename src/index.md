@@ -183,7 +183,7 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [lab-slides2-anotado]: 04-caminhos/slides-dia2-anotado.pdf
 [lab-slides2]: 04-caminhos/slides-dia2.pdf
 [lab-slides4]: 04-caminhos/slides-dia4.pdf
-[lab-slides4-anotado]: 04-caminhos/slides-dia4.pdf
+[lab-slides4-anotado]: 04-caminhos/slides-dia4-anotado.pdf
 [lab-ex4]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2607556
 
 # Materiais antigos
