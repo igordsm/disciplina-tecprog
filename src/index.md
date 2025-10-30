@@ -170,6 +170,7 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 |----------------           |----------------------------|-------------------------      |--------------------------------|
 | Heurística da mão direita | [Expositiva][lab-slides1]  | [Handout][lab-handout1] / [Mão direita](04-caminhos/mao-direita_1.png)       | [Acessar exercícios][lab-ex1] |
 | Backtracking | [Expositiva][lab-slides2] /[Anotações][lab-slides2-anotado]  | [Handout][lab-handout2] / [Anotações][lab-handout2-anotado]      | [Acessar exercícios][lab-ex2] |
+| Backtracking II | [Expositiva][lab-slides4] /[Anotações][lab-slides4-anotado]  |      | [Acessar exercícios][lab-ex4] |
 
 [lab-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2600615
 [lab-handout1]: 04-caminhos/handout-dia1.pdf
@@ -179,6 +180,9 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [lab-handout2-anotado]: 04-caminhos/handout-dia2-anotado.pdf
 [lab-slides2-anotado]: 04-caminhos/slides-dia2-anotado.pdf
 [lab-slides2]: 04-caminhos/slides-dia2.pdf
+[lab-slides4]: 04-caminhos/slides-dia4.pdf
+[lab-slides4-anotado]: 04-caminhos/slides-dia4.pdf
+[lab-ex4]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2607556
 
 # Materiais antigos
 
