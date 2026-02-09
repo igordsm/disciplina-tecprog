@@ -186,4 +186,5 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 
 # Materiais antigos
 
-O repositório com os materiais antigos está disponível [neste link](https://github.com/insper/tecnicas-de-programacao). 
+1. [2025-2](./2025-2.zip)
+2. Materiais anteriores estão disponíveis [neste link](https://github.com/insper/tecnicas-de-programacao). 
