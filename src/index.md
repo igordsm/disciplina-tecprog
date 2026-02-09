@@ -10,7 +10,7 @@ subtitle: 2026.1
 **Links importantes**:
 
 - [Avisos (blackboard)](https://insper.blackboard.com/ultra/courses/_52842_1/announcements)
-- [Exercícios (prairie learn)](https://us.prairielearn.com/pl/course_instance/188747)
+- [Exercícios (prairie learn)](https://us.prairielearn.com/pl/course_instance/210064)
 - [Plano de aulas](./plano-de-aulas.xlsx)
 
 # Equipe
@@ -74,7 +74,8 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 
 ## 00 - Pseudo código e Java
 
-[Acessar exercícios](https://us.prairielearn.com/pl/course_instance/188747/assessment/2569817){ .button }
+[Acessar exercícios](https://us.prairielearn.com/pl/course_instance/210064/assessment/2644446){ .button }
+
 
 
 **Cheat Sheets Java**:
