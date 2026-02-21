@@ -97,21 +97,23 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [pseudo-handout2]: 00-java/handout-dia2.pdf
 [pseudo-handout3]: 00-java/handout-dia3.pdf
 
-<!-- # 01 - Buscas em Arrays -->
-<!---->
-<!-- [Acessar exercícios](https://us.prairielearn.com/pl/course_instance/188747/assessment/2574645){ .button } -->
-<!---->
-<!-- | Aula                  | Slides                          | Handout                       | -->
-<!-- |-----------------------|---------------------------------|-------------------------------| -->
-<!-- | Busca Binária         | [Expositiva][binsearch-slides1] | [Handout][binsearch-handout1] | -->
-<!-- | Análise de Desempenho | [Expositiva][binsearch-slides2] | [Handout][binsearch-handout2] | -->
-<!-- |                       |                                 |                               | -->
-<!---->
-<!-- [binsearch-slides1]: 01-busca-binaria/slides-inicio.pdf -->
-<!-- [binsearch-handout1]: 01-busca-binaria/handout-dia1.pdf -->
-<!-- [binsearch-slides2]: 01-busca-binaria/slides-desempenho.pdf -->
-<!-- [binsearch-handout2]: 01-busca-binaria/handout-dia2.pdf -->
-<!---->
+# 01 - Buscas em Arrays
+
+[Exercícios de simulação](https://us.prairielearn.com/pl/course_instance/210064/assessment/2644448){ .button }
+
+[Exercícios de código](https://us.prairielearn.com/pl/course_instance/210064/assessment/2644447){ .button }
+
+| Aula                  | Slides                          | Handout                       |
+|-----------------------|---------------------------------|-------------------------------|
+| Busca Binária         | [Expositiva][binsearch-slides1] | [Handout][binsearch-handout1] |
+| Análise de Desempenho | [Expositiva][binsearch-slides2] | [Handout][binsearch-handout2] |
+|                       |                                 |                               |
+
+[binsearch-slides1]: 01-busca-binaria/slides-inicio.pdf
+[binsearch-handout1]: 01-busca-binaria/handout-dia1.pdf
+[binsearch-slides2]: 01-busca-binaria/slides-desempenho.pdf
+[binsearch-handout2]: 01-busca-binaria/handout-dia2.pdf
+
 <!-- ## 02 - Ordenação -->
 <!---->
 <!-- | Aula                   | Slides                     | Handout                 | Exercício                      | -->
