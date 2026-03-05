@@ -114,35 +114,36 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [binsearch-slides2]: 01-busca-binaria/slides-desempenho.pdf
 [binsearch-handout2]: 01-busca-binaria/handout-dia2.pdf
 
-<!-- ## 02 - Ordenação -->
-<!---->
-<!-- | Aula                   | Slides                     | Handout                 | Exercício                      | -->
-<!-- |----------------        |----------------------------|-------------------------|--------------------------------| -->
-<!-- | Bubble Sort            | [Expositiva][sort-slides1] | [Baixar][sort-handout1] | [Acessar exercícios][sort-ex1] | -->
-<!-- | Selection Sort         |                            | [Baixar][sort-handout1] | (igual acima)                  | -->
-<!-- | Quick Sort (I)         | [Expositiva][sort-slides3] | [Baixar][sort-handout3] | [Acessar exercícios][sort-ex3] | -->
-<!-- | Recursão               | [Expositiva][sort-slides4] | [Baixar][sort-handout4] |                                | -->
-<!-- | Merge Sort (I)         | [Expositiva][sort-slides5] | [Baixar][sort-handout5] | [Acessar exercícios][sort-ex5] | -->
-<!-- | Ordenação rápida       | [Expositiva][sort-slides6] |                         |  [Acessar exercícios][sort-ex6]| -->
-<!---->
-<!---->
-<!-- [sort-slides1]: 02-ordenacao/slides-dia1.pdf -->
-<!-- [sort-slides3]: 02-ordenacao/slides-dia3.pdf -->
-<!-- [sort-slides4]: 02-ordenacao/slides-dia4.pdf -->
-<!-- [sort-slides5]: 02-ordenacao/slides-dia5.pdf -->
-<!-- [sort-slides6]: 02-ordenacao/slides-dia6.pdf -->
-<!---->
-<!-- [sort-handout1]: 02-ordenacao/handout-dia1.pdf -->
-<!-- [sort-handout2]: 02-ordenacao/handout-dia2.pdf -->
-<!-- [sort-handout3]: 02-ordenacao/handout-dia3.pdf -->
-<!-- [sort-handout4]: 02-ordenacao/handout-dia4.pdf -->
-<!-- [sort-handout5]: 02-ordenacao/slides-dia5.pdf -->
-<!---->
-<!-- [sort-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2578637 -->
-<!-- [sort-ex3]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2581948 -->
-<!-- [sort-ex5]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2587712 -->
-<!-- [sort-ex6]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2592563 -->
-<!---->
+## 02 - Ordenação
+
+| Aula                   | Slides                     | Handout                 | Exercício                      |
+|----------------        |----------------------------|-------------------------|--------------------------------|
+| Bubble Sort            | [Expositiva][sort-slides1] | [Baixar][sort-handout1] | [Acessar exercícios][sort-ex1] |
+| Selection Sort         |                            | [Baixar][sort-handout1] | (igual acima)                  |
+| Quick Sort (I)         | [Expositiva][sort-slides3] | [Baixar][sort-handout3] | [Acessar exercícios][sort-ex3] |
+| Recursão               | [Expositiva][sort-slides4] | [Baixar][sort-handout4] | [Acessar exercícios][sort-ex4] |
+| Merge Sort (I)         | [Expositiva][sort-slides5] | [Baixar][sort-handout5] | [Acessar exercícios][sort-ex5] |
+| Ordenação rápida       | [Expositiva][sort-slides6] |                         |  [Acessar exercícios][sort-ex6]|
+
+
+[sort-slides1]: 02-ordenacao/slides-dia1.pdf
+[sort-slides3]: 02-ordenacao/slides-dia3.pdf
+[sort-slides4]: 02-ordenacao/slides-dia4.pdf
+[sort-slides5]: 02-ordenacao/slides-dia5.pdf
+[sort-slides6]: 02-ordenacao/slides-dia6.pdf
+
+[sort-handout1]: 02-ordenacao/handout-dia1.pdf
+[sort-handout2]: 02-ordenacao/handout-dia2.pdf
+[sort-handout3]: 02-ordenacao/handout-dia3.pdf
+[sort-handout4]: 02-ordenacao/handout-dia4.pdf
+[sort-handout5]: 02-ordenacao/slides-dia5.pdf
+
+[sort-ex1]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644449
+[sort-ex3]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644450
+[sort-ex4]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2656551
+[sort-ex5]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644445
+[sort-ex6]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644453
+
 <!-- ## 03 - Backtracking e enumeração exaustiva -->
 <!---->
 <!-- | Aula                      | Slides                     | Handout                       | Exercício                      | -->
