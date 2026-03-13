@@ -12,6 +12,7 @@ subtitle: 2026.1
 - [Avisos (blackboard)](https://insper.blackboard.com/ultra/courses/_52842_1/announcements)
 - [Exercícios (prairie learn)](https://us.prairielearn.com/pl/course_instance/210064)
 - [Plano de aulas](./plano-de-aulas.xlsx)
+- [Grupos do quiz1](./grupos-quiz1.csv)
 
 # Equipe
 
