@@ -186,6 +186,23 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 <!-- [lab-slides4-anotado]: 04-caminhos/slides-dia4-anotado.pdf -->
 <!-- [lab-ex4]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2607556 -->
 <!---->
+
+
+# Exercícios extras
+
+**Busca binária**:
+
+- [Insert position](https://leetcode.com/problems/search-insert-position/description/)
+- [Smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)
+- [Find peak element](https://leetcode.com/problems/find-peak-element/description/)
+
+**Ordenação**:
+
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- [Missing Number](https://leetcode.com/problems/missing-number/description/)
+- [Majority Element](https://leetcode.com/problems/majority-element/description/)
+
+
 # Materiais antigos
 
 1. [2025-2](./2025-2.zip)
