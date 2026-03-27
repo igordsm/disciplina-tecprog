@@ -144,47 +144,47 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [sort-ex5]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644445
 [sort-ex6]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644453
 
-<!-- ## 03 - Backtracking e enumeração exaustiva -->
-<!---->
-<!-- | Aula                      | Slides                     | Handout                       | Exercício                      | -->
-<!-- |----------------           |----------------------------|-------------------------      |--------------------------------| -->
-<!-- | Sequências de DNA         | [Expositiva][back-slides1] |                               | [Acessar exercícios][back-ex1] | -->
-<!-- | Mochila Binária           | [Expositiva][back-slides2] |   [Handout][back-handout2]    | [Acessar exercícios][back-ex2] | -->
-<!-- | Mochila Binária II        | [Expositiva][back-slides3] | [Handout][back-handout3]      | [Acessar exercícios][back-ex3] | -->
-<!-- | Mochila Binária III       |                            |                               | [Exercício extra][back-extra1] | -->
-<!---->
-<!-- [back-slides1]: 03-backtracking/slides-dia1.pdf -->
-<!-- [back-slides2]: 03-backtracking/slides-inicio.pdf -->
-<!-- [back-slides3]: 03-backtracking/slides-backtracking.pdf -->
-<!-- [back-handout2]: 03-backtracking/handout-dia2.pdf -->
-<!-- [back-handout3]: 03-backtracking/handout-dia3.pdf -->
-<!-- [back-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2593850 -->
-<!-- [back-ex2]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2596061 -->
-<!-- [back-ex3]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2596820 -->
-<!-- [back-extra1]: https://leetcode.com/problems/n-queens-ii/ -->
-<!---->
-<!-- ## 04 - Caminhos -->
-<!---->
-<!-- | Aula                      | Slides                     | Handout                       | Exercício                      | -->
-<!-- |----------------           |----------------------------|-------------------------      |--------------------------------| -->
-<!-- | Heurística da mão direita | [Expositiva][lab-slides1]  | [Handout][lab-handout1] / [Mão direita](04-caminhos/mao-direita_1.png)       | [Acessar exercícios][lab-ex1] | -->
-<!-- | Backtracking | [Expositiva][lab-slides2] /[Anotações][lab-slides2-anotado]  | [Handout][lab-handout2] / [Anotações][lab-handout2-anotado]      | [Acessar exercícios][lab-ex2] | -->
-<!-- | Backtracking II | [Expositiva][lab-slides4] /[Anotações][lab-slides4-anotado]  |      | [Acessar exercícios][lab-ex4] | -->
-<!---->
-<!---->
-<!---->
-<!-- [lab-ex1]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2600615 -->
-<!-- [lab-handout1]: 04-caminhos/handout-dia1.pdf -->
-<!-- [lab-slides1]: 04-caminhos/slides-dia1.html -->
-<!-- [lab-ex2]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2606425 -->
-<!-- [lab-handout2]: 04-caminhos/handout-dia2.pdf -->
-<!-- [lab-handout2-anotado]: 04-caminhos/handout-dia2-anotado.pdf -->
-<!-- [lab-slides2-anotado]: 04-caminhos/slides-dia2-anotado.pdf -->
-<!-- [lab-slides2]: 04-caminhos/slides-dia2.pdf -->
-<!-- [lab-slides4]: 04-caminhos/slides-dia4.pdf -->
-<!-- [lab-slides4-anotado]: 04-caminhos/slides-dia4-anotado.pdf -->
-<!-- [lab-ex4]: https://us.prairielearn.com/pl/course_instance/188747/assessment/2607556 -->
-<!---->
+## 03 - Backtracking e enumeração exaustiva
+
+| Aula                      | Slides                     | Handout                       | Exercício                      |
+|----------------           |----------------------------|-------------------------      |--------------------------------|
+| Sequências de DNA         | [Expositiva][back-slides1] |                               | [Acessar exercícios][back-ex1] |
+| Mochila Binária           | [Expositiva][back-slides2] |   [Handout][back-handout2]    | [Acessar exercícios][back-ex2] |
+| Mochila Binária II        | [Expositiva][back-slides3] | [Handout][back-handout3]      | [Acessar exercícios][back-ex3] |
+| Mochila Binária III       |                            |                               | [Exercício extra][back-extra1] |
+
+[back-slides1]: 03-backtracking/slides-dia1.pdf
+[back-slides2]: 03-backtracking/slides-inicio.pdf
+[back-slides3]: 03-backtracking/slides-backtracking.pdf
+[back-handout2]: 03-backtracking/handout-dia2.pdf
+[back-handout3]: 03-backtracking/handout-dia3.pdf
+[back-ex1]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644439
+[back-ex2]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644440
+[back-ex3]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644441
+[back-extra1]: https://leetcode.com/problems/n-queens-ii/
+
+## 04 - Caminhos
+
+| Aula                      | Slides                     | Handout                       | Exercício                      |
+|----------------           |----------------------------|-------------------------      |--------------------------------|
+| Heurística da mão direita | [Expositiva][lab-slides1]  | [Handout][lab-handout1] / [Mão direita](04-caminhos/mao-direita_1.png)       | [Acessar exercícios][lab-ex1] |
+| Backtracking | [Expositiva][lab-slides2] /[Anotações][lab-slides2-anotado]  | [Handout][lab-handout2] / [Anotações][lab-handout2-anotado]      | [Acessar exercícios][lab-ex2] |
+| Backtracking II | [Expositiva][lab-slides4] /[Anotações][lab-slides4-anotado]  |      | [Acessar exercícios][lab-ex4] |
+
+
+
+[lab-ex1]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644442
+[lab-handout1]: 04-caminhos/handout-dia1.pdf
+[lab-slides1]: 04-caminhos/slides-dia1.html
+[lab-ex2]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644443
+[lab-handout2]: 04-caminhos/handout-dia2.pdf
+[lab-handout2-anotado]: 04-caminhos/handout-dia2-anotado.pdf
+[lab-slides2-anotado]: 04-caminhos/slides-dia2-anotado.pdf
+[lab-slides2]: 04-caminhos/slides-dia2.pdf
+[lab-slides4]: 04-caminhos/slides-dia4.pdf
+[lab-slides4-anotado]: 04-caminhos/slides-dia4-anotado.pdf
+[lab-ex4]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644444
+
 # Materiais antigos
 
 1. [2025-2](./2025-2.zip)
