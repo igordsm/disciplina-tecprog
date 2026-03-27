@@ -12,6 +12,7 @@ subtitle: 2026.1
 - [Avisos (blackboard)](https://insper.blackboard.com/ultra/courses/_52842_1/announcements)
 - [Exercícios (prairie learn)](https://us.prairielearn.com/pl/course_instance/210064)
 - [Plano de aulas](./plano-de-aulas.xlsx)
+- [Grupos do quiz1](./grupos-quiz1.csv)
 
 # Equipe
 
@@ -184,6 +185,22 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 [lab-slides4]: 04-caminhos/slides-dia4.pdf
 [lab-slides4-anotado]: 04-caminhos/slides-dia4-anotado.pdf
 [lab-ex4]: https://us.prairielearn.com/pl/course_instance/210064/assessment/2644444
+
+
+# Exercícios extras
+
+**Busca binária**:
+
+- [Insert position](https://leetcode.com/problems/search-insert-position/description/)
+- [Smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)
+- [Find peak element](https://leetcode.com/problems/find-peak-element/description/)
+
+**Ordenação**:
+
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- [Missing Number](https://leetcode.com/problems/missing-number/description/)
+- [Majority Element](https://leetcode.com/problems/majority-element/description/)
+
 
 # Materiais antigos
 
