@@ -40,7 +40,7 @@ footer: 'Igor Montagner (igorsm1@insper.edu.br)'
 ```
 QUICKSORT(A, INI, FIM)
 
-IF INI <= FIM - 1 THEN
+IF INI >= FIM - 1 THEN
     RETURN
 END
 
@@ -160,7 +160,7 @@ AUX =
 # Vamos fazer juntos (de novo)
 
 - A1 = [ 1 3 5 7 ]
-- A2 = [ 2 4 6 8 ]
+- A2 = [ 6 8 10 12 ]
 
 #
 
@@ -172,8 +172,8 @@ AUX =
 
 # Vamos fazer juntos (última vez)
 
-- A1 = [ 1 3 5 7 ]
-- A2 = [ 2 4 6 8 ]
+- A1 = [ 1 2 5 6 ]
+- A2 = [ -1 2 9 10 ]
 
 #
 
@@ -221,11 +221,11 @@ AUX =
 ```
 MERGE-SORT(A, AUX, INI, FIM)
 
-IF INI <= FIM - 1 THEN
+IF INI >= FIM - 1 THEN
     RETURN
 END
 
-MEIO <- (INI + FIM - 1) / 2
+MEIO <- (INI + FIM) / 2
 MERGE-SORT(A, INI, MEIO)
 MERGE-SORT(A, MEIO, FIM)
 

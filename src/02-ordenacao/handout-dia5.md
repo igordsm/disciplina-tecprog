@@ -34,7 +34,7 @@ Quando fizemos junto na expositiva, registramos um valor em AUX para cada valor 
 
 | $K$  | $I$   | $J$  | $\text{AUX}[K]$     |
 |:----:|:-----:|:----:|:-------------------:|
-| 0    |  1    |  0   | $1$                 |
+| 0    |  0    |  1   | $1$                 |
 |      |       |      | \hspace{5em}        |
 |      |       |      | \hspace{5em}        |
 |      |       |      | \hspace{5em}        |
@@ -53,8 +53,8 @@ $\textrm{AUX} = [ \hspace{10em} ]$
 
 Mais uma vez, considerando agora que 
 
-- $A1 = [ 4, 4, 7, 8 ]$
-- $A2 = [ 1, 3, 5, 6 ]$
+- $A1 = [ -4, 7, 8, 12 ]$
+- $A2 = [ 1, 2, 4, 10, 15 ]$
 - $K = 0$
 - $I = 0$
 - $J = 0$
@@ -63,7 +63,7 @@ Quando fizemos junto na expositiva, registramos um valor em AUX para cada valor 
 
 | $K$  | $I$   | $J$  | $\text{AUX}[K]$     |
 |:----:|:-----:|:----:|:-------------------:|
-| 0    |  1    |  0   | $1$                 |
+| 0    |  1    |  0   | $-4$                 |
 |      |       |      | \hspace{5em}        |
 |      |       |      | \hspace{5em}        |
 |      |       |      | \hspace{5em}        |

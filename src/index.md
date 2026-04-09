@@ -201,6 +201,10 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 - [Missing Number](https://leetcode.com/problems/missing-number/description/)
 - [Majority Element](https://leetcode.com/problems/majority-element/description/)
 
+**Recursão**:
+
+- [Find unique string](https://leetcode.com/problems/find-unique-binary-string/description/)
+
 
 # Materiais antigos
 
