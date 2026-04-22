@@ -205,6 +205,11 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 
 - [Find unique string](https://leetcode.com/problems/find-unique-binary-string/description/)
 
+**Labirinto e caminhos**:
+
+- https://leetcode.com/problems/number-of-islands/
+- https://leetcode.com/problems/surrounded-regions/
+- https://leetcode.com/problems/max-area-of-island/
 
 # Materiais antigos
 
