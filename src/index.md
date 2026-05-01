@@ -201,15 +201,16 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 - [Missing Number](https://leetcode.com/problems/missing-number/description/)
 - [Majority Element](https://leetcode.com/problems/majority-element/description/)
 
-**Recursão**:
+**Recursão e backtracking**:
 
 - [Find unique string](https://leetcode.com/problems/find-unique-binary-string/description/)
+- [Distribution of cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/)
 
 **Labirinto e caminhos**:
 
-- https://leetcode.com/problems/number-of-islands/
-- https://leetcode.com/problems/surrounded-regions/
-- https://leetcode.com/problems/max-area-of-island/
+- [Number of islands](https://leetcode.com/problems/number-of-islands/)
+- [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+- [Max area of island](https://leetcode.com/problems/max-area-of-island/)
 
 # Materiais antigos
 
